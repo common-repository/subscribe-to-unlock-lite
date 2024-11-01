@@ -1,0 +1,1 @@
+<a href="https://1.envato.market/PNaY6" target="_blank"><img class="upgrade-image" src="<?php echo STUL_URL . '/images/stu-backend-banner-light-hr-btn.png'; ?>" /></a>
